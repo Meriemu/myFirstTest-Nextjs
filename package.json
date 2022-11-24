@@ -1,5 +1,4 @@
 {
-  "homepgae": "https://meriemu.github.io/myFirstTest-Nextjs/",
   "private": true,
   "scripts": {
     "dev": "next dev",
